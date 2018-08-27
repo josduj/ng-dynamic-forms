@@ -21,14 +21,14 @@ const NPM_SCOPE      = "@ng-dynamic-forms",
       TEST_PATH      = "./test",
       PACKAGES_NAMES = [
           "core",
-          "ui-basic",
-          "ui-bootstrap",
-          "ui-foundation",
+        //   "ui-basic",
+        //   "ui-bootstrap",
+        //   "ui-foundation",
           "ui-ionic",
-          "ui-kendo",
-          "ui-material",
-          "ui-ng-bootstrap",
-          "ui-primeng"
+        //   "ui-kendo",
+        //   "ui-material",
+        //   "ui-ng-bootstrap",
+        //   "ui-primeng"
       ];
 
 
